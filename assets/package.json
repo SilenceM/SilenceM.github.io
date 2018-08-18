@@ -10,7 +10,7 @@
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-less": "~0.11.1",
     "grunt-contrib-watch": "~0.6.1",
-    "gulp": "^3.9.1"
+    "gulp": "github:gulpjs/gulp#4.0"
   },
   "dependencies": {
     "gulp-clean-css": "^3.10.0",
