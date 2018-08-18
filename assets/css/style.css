@@ -1,6 +1,6 @@
-@import "lib/font-lineicons.css";
-@import "lib/toastr.min.css";
-@import "lib/bootstrap.min.css";
+@import "./lib/font-lineicons.css";
+@import "./lib/toastr.min.css";
+@import "./lib/bootstrap.min.css";
 /* ================================================
 // ************************************************
 //
@@ -2419,7 +2419,7 @@ input.header.header-color .navigation-header .buy-btn,
 div.bg-low-poly,
 footer.bg-low-poly,
 section.bg-low-poly {
-  background-image: url("../img/background/low_poly_background.jpg");
+  /* background-image: url("../img/background/low_poly_background.jpg"); */
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -6033,7 +6033,7 @@ button[type="submit"] .loading {
   background-position: center !important;
 }
 .ytp-player-background.no-video-bg {
-  background: transparent url('../img/background/low_poly_background.jpg') top center no-repeat;
+  /* background: transparent url('../img/background/low_poly_background.jpg') top center no-repeat; */
 }
 .ytp-player-background.no-video-bg .video-conrols {
   display: none;
@@ -6056,7 +6056,7 @@ button[type="submit"] .loading {
   display: block;
   width: 56px;
   height: 82px;
-  background: transparent url('../img/icon/yt_play_big_56x82.png') center no-repeat;
+  /* background: transparent url('../img/icon/yt_play_big_56x82.png') center no-repeat; */
   cursor: pointer;
   z-index: 999;
 }
@@ -6116,7 +6116,7 @@ button[type="submit"] .loading {
   left: 0;
   bottom: 0;
   display: block;
-  background: transparent url('../img/icon/yt_controls_40x40.png') no-repeat;
+  /* background: transparent url('../img/icon/yt_controls_40x40.png') no-repeat; */
 }
 .ytp-player-background .controls-container .yt-play-toggle:before {
   opacity: 1;
@@ -6967,7 +6967,7 @@ button[type="submit"] .loading {
 .stat-section,
 .signup-section {
   padding: 50px 0 48px;
-  background-image: url("../img/stat-bg-1919x1000.jpg");
+  /* background-image: url("../img/stat-bg-1919x1000.jpg"); */
 }
 .prices-section {
   padding: 26px 0 100px;
